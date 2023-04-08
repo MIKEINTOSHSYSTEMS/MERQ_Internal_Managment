@@ -1,0 +1,729 @@
+2023-04-07 15:53:54,713 36052 INFO ? odoo: Odoo version 16.0-20230404 
+2023-04-07 15:53:54,714 36052 INFO ? odoo: Using configuration file at D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo.conf 
+2023-04-07 15:53:54,714 36052 INFO ? odoo: addons paths: ['D:\\DATA_BACKUP\\DEVELOPMENTS\\zinst\\MERQ\\MERQInternalManagment\\server\\odoo\\addons', 'd:\\data_backup\\developments\\zinst\\merq\\merqinternalmanagment\\sessions\\addons\\16.0', 'd:\\data_backup\\developments\\zinst\\merq\\merqinternalmanagment\\server\\odoo\\addons'] 
+2023-04-07 15:53:54,715 36052 INFO ? odoo: database: openpg@localhost:5432 
+2023-04-07 15:53:55,320 36052 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\thirdparty\wkhtmltopdf.exe 
+2023-04-07 15:53:56,348 36052 INFO ? odoo.service.server: Initiating shutdown 
+2023-04-07 15:53:56,348 36052 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2023-04-07 15:54:06,701 30676 INFO ? odoo: Odoo version 16.0-20230404 
+2023-04-07 15:54:06,702 30676 INFO ? odoo: Using configuration file at D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo.conf 
+2023-04-07 15:54:06,702 30676 INFO ? odoo: addons paths: ['D:\\DATA_BACKUP\\DEVELOPMENTS\\zinst\\MERQ\\MERQInternalManagment\\server\\odoo\\addons', 'd:\\data_backup\\developments\\zinst\\merq\\merqinternalmanagment\\sessions\\addons\\16.0', 'd:\\data_backup\\developments\\zinst\\merq\\merqinternalmanagment\\server\\odoo\\addons'] 
+2023-04-07 15:54:06,702 30676 INFO ? odoo: database: openpg@localhost:5432 
+2023-04-07 15:54:06,935 30676 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\thirdparty\wkhtmltopdf.exe 
+2023-04-07 15:54:07,401 30676 INFO ? odoo.service.server: HTTP service (werkzeug) running on MIKEINTOSH-MERQ:8069 
+2023-04-07 15:54:07,441 30676 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 15:54:07,485 30676 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:13:55,686 30676 INFO ? odoo.service.server: Initiating shutdown 
+2023-04-07 16:13:55,709 30676 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2023-04-07 16:13:56,048 30676 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2023-04-07 16:23:49,062 28188 INFO ? odoo: Odoo version 16.0-20230404 
+2023-04-07 16:23:49,064 28188 INFO ? odoo: Using configuration file at D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo.conf 
+2023-04-07 16:23:49,064 28188 INFO ? odoo: addons paths: ['D:\\DATA_BACKUP\\DEVELOPMENTS\\zinst\\MERQ\\MERQInternalManagment\\server\\odoo\\addons', 'd:\\data_backup\\developments\\zinst\\merq\\merqinternalmanagment\\sessions\\addons\\16.0', 'd:\\data_backup\\developments\\zinst\\merq\\merqinternalmanagment\\server\\odoo\\addons'] 
+2023-04-07 16:23:49,064 28188 INFO ? odoo: database: merqinternal@localhost:5432 
+2023-04-07 16:23:49,407 28188 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\thirdparty\wkhtmltopdf.exe 
+2023-04-07 16:23:49,919 28188 INFO ? odoo.service.server: HTTP service (werkzeug) running on MIKEINTOSH-MERQ:8069 
+2023-04-07 16:23:49,966 28188 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:23:50,020 28188 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:24:48,043 28188 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:24:48,090 28188 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:24:48] "GET / HTTP/1.1" 303 - 0 0.000 0.238
+2023-04-07 16:24:48,181 28188 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:24:48,300 28188 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:24:48,301 28188 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:24:48] "GET /web HTTP/1.1" 303 - 0 0.000 0.190
+2023-04-07 16:24:48,485 28188 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:24:49,686 28188 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:24:49,790 28188 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:24:49] "GET /web/database/selector HTTP/1.1" 200 - 0 0.000 1.475
+2023-04-07 16:24:50,331 28188 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:24:50,334 28188 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:24:50] "GET /web/static/lib/jquery/jquery.js HTTP/1.1" 200 - 0 0.000 0.060
+2023-04-07 16:24:50,402 28188 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:24:50,406 28188 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:24:50] "GET /web/static/lib/bootstrap/js/dist/dom/event-handler.js HTTP/1.1" 200 - 0 0.000 0.130
+2023-04-07 16:24:50,459 28188 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:24:50,461 28188 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:24:50] "GET /web/static/lib/bootstrap/js/dist/dom/manipulator.js HTTP/1.1" 200 - 0 0.000 0.184
+2023-04-07 16:24:50,513 28188 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:24:50,518 28188 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:24:50] "GET /web/static/lib/bootstrap/js/dist/dom/data.js HTTP/1.1" 200 - 0 0.000 0.239
+2023-04-07 16:24:50,562 28188 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:24:50,564 28188 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:24:50] "GET /web/static/lib/bootstrap/js/dist/dom/selector-engine.js HTTP/1.1" 200 - 0 0.000 0.284
+2023-04-07 16:24:50,725 28188 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:24:50,728 28188 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:24:50] "GET /web/static/lib/bootstrap/js/dist/base-component.js HTTP/1.1" 200 - 0 0.000 0.445
+2023-04-07 16:24:50,769 28188 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:24:50,772 28188 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:24:50] "GET /web/static/lib/bootstrap/js/dist/modal.js HTTP/1.1" 200 - 0 0.000 0.124
+2023-04-07 16:24:50,817 28188 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:24:50,818 28188 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:24:50] "GET /web/static/src/public/database_manager.js HTTP/1.1" 200 - 0 0.000 0.096
+2023-04-07 16:24:51,147 28188 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:24:51,149 28188 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:24:51] "GET /web/static/img/logo2.png HTTP/1.1" 200 - 0 0.000 0.054
+2023-04-07 16:26:27,402 28188 INFO ? odoo.service.server: Initiating shutdown 
+2023-04-07 16:26:27,402 28188 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2023-04-07 16:26:27,676 28188 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2023-04-07 16:26:36,579 30060 INFO ? odoo: Odoo version 16.0-20230404 
+2023-04-07 16:26:36,579 30060 INFO ? odoo: Using configuration file at D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo.conf 
+2023-04-07 16:26:36,579 30060 INFO ? odoo: addons paths: ['D:\\DATA_BACKUP\\DEVELOPMENTS\\zinst\\MERQ\\MERQInternalManagment\\server\\odoo\\addons', 'd:\\data_backup\\developments\\zinst\\merq\\merqinternalmanagment\\sessions\\addons\\16.0', 'd:\\data_backup\\developments\\zinst\\merq\\merqinternalmanagment\\server\\odoo\\addons'] 
+2023-04-07 16:26:36,579 30060 INFO ? odoo: database: merqinternal@localhost:5432 
+2023-04-07 16:26:36,799 30060 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\thirdparty\wkhtmltopdf.exe 
+2023-04-07 16:26:37,128 30060 INFO ? odoo.service.server: HTTP service (werkzeug) running on MIKEINTOSH-MERQ:8069 
+2023-04-07 16:26:37,162 30060 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:26:37,197 30060 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:26:57,025 30060 INFO ? odoo.service.server: Initiating shutdown 
+2023-04-07 16:26:57,026 30060 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2023-04-07 16:26:57,062 30060 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2023-04-07 16:27:11,320 17788 INFO ? odoo: Odoo version 16.0-20230404 
+2023-04-07 16:27:11,321 17788 INFO ? odoo: Using configuration file at D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo.conf 
+2023-04-07 16:27:11,321 17788 INFO ? odoo: addons paths: ['D:\\DATA_BACKUP\\DEVELOPMENTS\\zinst\\MERQ\\MERQInternalManagment\\server\\odoo\\addons', 'd:\\data_backup\\developments\\zinst\\merq\\merqinternalmanagment\\sessions\\addons\\16.0', 'd:\\data_backup\\developments\\zinst\\merq\\merqinternalmanagment\\server\\odoo\\addons'] 
+2023-04-07 16:27:11,321 17788 INFO ? odoo: database: merqinternal@localhost:5432 
+2023-04-07 16:27:11,549 17788 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\thirdparty\wkhtmltopdf.exe 
+2023-04-07 16:27:11,832 17788 INFO ? odoo.service.server: HTTP service (werkzeug) running on MIKEINTOSH-MERQ:8069 
+2023-04-07 16:27:11,866 17788 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:27:11,909 17788 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:27:12,047 17788 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:27:12,080 17788 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:27:12] "GET / HTTP/1.1" 303 - 0 0.000 0.087
+2023-04-07 16:27:12,157 17788 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:27:12,217 17788 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:27:12,218 17788 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:27:12] "GET /web HTTP/1.1" 303 - 0 0.000 0.125
+2023-04-07 16:27:12,283 17788 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:27:12,873 17788 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:27:12,957 17788 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:27:12] "GET /web/database/selector HTTP/1.1" 200 - 0 0.000 0.712
+2023-04-07 16:27:14,879 17788 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:27:14,881 17788 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:27:14] "GET /web/static/img/favicon.ico HTTP/1.1" 200 - 0 0.000 0.059
+2023-04-07 16:28:09,484 17788 INFO ? odoo.service.server: Initiating shutdown 
+2023-04-07 16:28:09,484 17788 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2023-04-07 16:28:09,762 17788 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2023-04-07 16:28:22,227 29640 INFO ? odoo: Odoo version 16.0-20230404 
+2023-04-07 16:28:22,227 29640 INFO ? odoo: Using configuration file at D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo.conf 
+2023-04-07 16:28:22,227 29640 INFO ? odoo: addons paths: ['D:\\DATA_BACKUP\\DEVELOPMENTS\\zinst\\MERQ\\MERQInternalManagment\\server\\odoo\\addons', 'd:\\data_backup\\developments\\zinst\\merq\\merqinternalmanagment\\sessions\\addons\\16.0', 'd:\\data_backup\\developments\\zinst\\merq\\merqinternalmanagment\\server\\odoo\\addons'] 
+2023-04-07 16:28:22,227 29640 INFO ? odoo: database: merqinternal@localhost:5432 
+2023-04-07 16:28:22,271 29640 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:28:32,629 35984 INFO ? odoo: Odoo version 16.0-20230404 
+2023-04-07 16:28:32,629 35984 INFO ? odoo: Using configuration file at D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo.conf 
+2023-04-07 16:28:32,629 35984 INFO ? odoo: addons paths: ['D:\\DATA_BACKUP\\DEVELOPMENTS\\zinst\\MERQ\\MERQInternalManagment\\server\\odoo\\addons', 'd:\\data_backup\\developments\\zinst\\merq\\merqinternalmanagment\\sessions\\addons\\16.0', 'd:\\data_backup\\developments\\zinst\\merq\\merqinternalmanagment\\server\\odoo\\addons'] 
+2023-04-07 16:28:32,629 35984 INFO ? odoo: database: merqinternal@localhost:5432 
+2023-04-07 16:28:32,672 35984 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:29:06,924 27304 INFO ? odoo: Odoo version 16.0-20230404 
+2023-04-07 16:29:06,924 27304 INFO ? odoo: Using configuration file at D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo.conf 
+2023-04-07 16:29:06,924 27304 INFO ? odoo: addons paths: ['D:\\DATA_BACKUP\\DEVELOPMENTS\\zinst\\MERQ\\MERQInternalManagment\\server\\odoo\\addons', 'd:\\data_backup\\developments\\zinst\\merq\\merqinternalmanagment\\sessions\\addons\\16.0', 'd:\\data_backup\\developments\\zinst\\merq\\merqinternalmanagment\\server\\odoo\\addons'] 
+2023-04-07 16:29:06,924 27304 INFO ? odoo: database: merqinternal@localhost:5432 
+2023-04-07 16:29:07,121 27304 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\thirdparty\wkhtmltopdf.exe 
+2023-04-07 16:29:07,385 27304 INFO ? odoo.service.server: HTTP service (werkzeug) running on MIKEINTOSH-MERQ:8069 
+2023-04-07 16:29:07,416 27304 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:29:07,452 27304 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:29:09,355 27304 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:29:09,379 27304 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:29:09] "GET / HTTP/1.1" 303 - 0 0.000 0.064
+2023-04-07 16:29:09,425 27304 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:29:09,461 27304 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:29:09,463 27304 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:29:09] "GET /web HTTP/1.1" 303 - 0 0.000 0.074
+2023-04-07 16:29:09,616 27304 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:29:10,092 27304 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:29:10,175 27304 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:29:10] "GET /web/database/selector HTTP/1.1" 200 - 0 0.000 0.596
+2023-04-07 16:30:16,719 27304 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:30:16,821 27304 INFO None odoo.service.db: Create database `merqinternal`. 
+2023-04-07 16:30:16,853 27304 INFO None odoo.sql_db: Connection to the database failed 
+2023-04-07 16:30:16,853 27304 ERROR None odoo.addons.web.controllers.database: Database creation error. 
+Traceback (most recent call last):
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\addons\web\controllers\database.py", line 81, in create
+    dispatch_rpc('db', 'create_database', [master_pwd, name, bool(post.get('demo')), lang, password, post['login'], country_code, post['phone']])
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\http.py", line 368, in dispatch_rpc
+    return dispatch(method, params)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\service\db.py", line 475, in dispatch
+    return g[exp_method_name](*params)
+  File "<decorator-gen-17>", line 2, in exp_create_database
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\service\db.py", line 43, in if_db_mgt_enabled
+    return method(self, *args, **kwargs)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\service\db.py", line 140, in exp_create_database
+    _create_empty_database(db_name)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\service\db.py", line 101, in _create_empty_database
+    with closing(db.cursor()) as cr:
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\sql_db.py", line 723, in cursor
+    return Cursor(self.__pool, self.__dbname, self.__dsn)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\sql_db.py", line 259, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "<decorator-gen-2>", line 2, in borrow
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\sql_db.py", line 650, in borrow
+    **connection_info)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\python\Lib\site-packages\psycopg2\__init__.py", line 127, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: FATAL:  password authentication failed for user "merqinternal"
+
+2023-04-07 16:30:17,048 27304 INFO None odoo.sql_db: Connection to the database failed 
+2023-04-07 16:30:17,131 27304 INFO None werkzeug: 127.0.0.1 - - [07/Apr/2023 16:30:17] "POST /web/database/create HTTP/1.1" 200 - 0 0.000 0.448
+2023-04-07 16:31:00,349 27304 INFO ? odoo.service.server: Initiating shutdown 
+2023-04-07 16:31:00,349 27304 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2023-04-07 16:31:00,367 27304 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2023-04-07 16:31:01,996 31964 INFO ? odoo: Odoo version 16.0-20230404 
+2023-04-07 16:31:01,997 31964 INFO ? odoo: Using configuration file at D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo.conf 
+2023-04-07 16:31:01,997 31964 INFO ? odoo: addons paths: ['D:\\DATA_BACKUP\\DEVELOPMENTS\\zinst\\MERQ\\MERQInternalManagment\\server\\odoo\\addons', 'd:\\data_backup\\developments\\zinst\\merq\\merqinternalmanagment\\sessions\\addons\\16.0', 'd:\\data_backup\\developments\\zinst\\merq\\merqinternalmanagment\\server\\odoo\\addons'] 
+2023-04-07 16:31:01,997 31964 INFO ? odoo: database: openpg@localhost:5432 
+2023-04-07 16:31:02,191 31964 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\thirdparty\wkhtmltopdf.exe 
+2023-04-07 16:31:02,467 31964 INFO ? odoo.service.server: HTTP service (werkzeug) running on MIKEINTOSH-MERQ:8069 
+2023-04-07 16:31:02,496 31964 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:31:02,532 31964 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:32:06,891 31964 INFO ? odoo.service.server: Initiating shutdown 
+2023-04-07 16:32:06,891 31964 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2023-04-07 16:32:06,900 31964 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2023-04-07 16:32:08,386 25188 INFO ? odoo: Odoo version 16.0-20230404 
+2023-04-07 16:32:08,386 25188 INFO ? odoo: Using configuration file at D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo.conf 
+2023-04-07 16:32:08,386 25188 INFO ? odoo: addons paths: ['D:\\DATA_BACKUP\\DEVELOPMENTS\\zinst\\MERQ\\MERQInternalManagment\\server\\odoo\\addons', 'd:\\data_backup\\developments\\zinst\\merq\\merqinternalmanagment\\sessions\\addons\\16.0', 'd:\\data_backup\\developments\\zinst\\merq\\merqinternalmanagment\\server\\odoo\\addons'] 
+2023-04-07 16:32:08,386 25188 INFO ? odoo: database: odoodb@localhost:5432 
+2023-04-07 16:32:08,586 25188 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\thirdparty\wkhtmltopdf.exe 
+2023-04-07 16:32:08,835 25188 INFO ? odoo.service.server: HTTP service (werkzeug) running on MIKEINTOSH-MERQ:8069 
+2023-04-07 16:32:21,242 25188 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:32:21] "GET / HTTP/1.1" 303 - 1 0.017 0.048
+2023-04-07 16:32:21,420 25188 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:32:21] "GET /web HTTP/1.1" 303 - 2 0.004 0.166
+2023-04-07 16:32:22,055 25188 INFO ? odoo.sql_db: ConnectionPool(used=2/count=3/max=64): Closed 1 connections to 'user=odoodb password=xxx dbname=odoodb host=localhost port=5432 application_name=odoo-25188 sslmode=prefer' 
+2023-04-07 16:32:22,132 25188 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:32:22] "GET /web/database/selector HTTP/1.1" 200 - 6 0.058 0.630
+2023-04-07 16:32:29,632 25188 INFO ? odoo.sql_db: ConnectionPool(used=2/count=3/max=64): Closed 1 connections to 'user=odoodb password=xxx dbname=odoodb host=localhost port=5432 application_name=odoo-25188 sslmode=prefer' 
+2023-04-07 16:32:29,690 25188 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:32:29] "GET /web/database/manager HTTP/1.1" 200 - 6 0.005 0.187
+2023-04-07 16:33:34,028 25188 ERROR None odoo.addons.web.controllers.database: Database creation error. 
+Traceback (most recent call last):
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\addons\web\controllers\database.py", line 81, in create
+    dispatch_rpc('db', 'create_database', [master_pwd, name, bool(post.get('demo')), lang, password, post['login'], country_code, post['phone']])
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\http.py", line 368, in dispatch_rpc
+    return dispatch(method, params)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\service\db.py", line 474, in dispatch
+    check_super(passwd)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\service\db.py", line 53, in check_super
+    raise odoo.exceptions.AccessDenied()
+odoo.exceptions.AccessDenied: Access Denied
+2023-04-07 16:33:34,141 25188 INFO None odoo.sql_db: ConnectionPool(used=2/count=3/max=64): Closed 1 connections to 'user=odoodb password=xxx dbname=odoodb host=localhost port=5432 application_name=odoo-25188 sslmode=prefer' 
+2023-04-07 16:33:34,217 25188 INFO None werkzeug: 127.0.0.1 - - [07/Apr/2023 16:33:34] "POST /web/database/create HTTP/1.1" 200 - 6 0.009 0.269
+2023-04-07 16:33:41,897 25188 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:33:41] "GET /web/database/create HTTP/1.1" 405 - 1 0.003 0.030
+2023-04-07 16:33:42,283 25188 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:33:42] "GET /favicon.ico HTTP/1.1" 404 - 1 0.003 0.040
+2023-04-07 16:33:45,376 25188 INFO ? odoo.sql_db: ConnectionPool(used=2/count=3/max=64): Closed 1 connections to 'user=odoodb password=xxx dbname=odoodb host=localhost port=5432 application_name=odoo-25188 sslmode=prefer' 
+2023-04-07 16:33:45,436 25188 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:33:45] "GET /web/database/manager HTTP/1.1" 200 - 6 0.013 0.287
+2023-04-07 16:34:17,389 25188 INFO ? odoo.service.server: Initiating shutdown 
+2023-04-07 16:34:17,389 25188 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2023-04-07 16:34:17,651 25188 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 3 connections  
+2023-04-07 16:34:22,359 37676 INFO ? odoo: Odoo version 16.0-20230404 
+2023-04-07 16:34:22,360 37676 INFO ? odoo: Using configuration file at D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo.conf 
+2023-04-07 16:34:22,360 37676 INFO ? odoo: addons paths: ['D:\\DATA_BACKUP\\DEVELOPMENTS\\zinst\\MERQ\\MERQInternalManagment\\server\\odoo\\addons', 'd:\\data_backup\\developments\\zinst\\merq\\merqinternalmanagment\\sessions\\addons\\16.0', 'd:\\data_backup\\developments\\zinst\\merq\\merqinternalmanagment\\server\\odoo\\addons'] 
+2023-04-07 16:34:22,360 37676 INFO ? odoo: database: odoodb@localhost:5432 
+2023-04-07 16:34:23,373 37676 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\thirdparty\wkhtmltopdf.exe 
+2023-04-07 16:34:23,642 37676 INFO ? odoo.service.server: HTTP service (werkzeug) running on MIKEINTOSH-MERQ:8069 
+2023-04-07 16:34:23,656 37676 INFO ? odoo.modules.loading: init db 
+2023-04-07 16:34:25,244 37676 INFO merqinternal odoo.modules.loading: loading 1 modules... 
+2023-04-07 16:34:25,244 37676 INFO merqinternal odoo.modules.loading: Loading module base (1/1) 
+2023-04-07 16:34:25,277 37676 INFO merqinternal odoo.modules.registry: module base: creating or updating database tables 
+2023-04-07 16:34:25,880 37676 INFO merqinternal odoo.models: Prepare computation of ir.module.module.menus_by_module 
+2023-04-07 16:34:25,881 37676 INFO merqinternal odoo.models: Prepare computation of ir.module.module.reports_by_module 
+2023-04-07 16:34:25,881 37676 INFO merqinternal odoo.models: Prepare computation of ir.module.module.views_by_module 
+2023-04-07 16:34:26,119 37676 INFO merqinternal odoo.models: Prepare computation of res.partner.user_id 
+2023-04-07 16:34:26,119 37676 INFO merqinternal odoo.models: Prepare computation of res.partner.commercial_partner_id 
+2023-04-07 16:34:26,120 37676 INFO merqinternal odoo.models: Prepare computation of res.partner.display_name 
+2023-04-07 16:34:26,120 37676 INFO merqinternal odoo.models: Prepare computation of res.partner.company_registry 
+2023-04-07 16:34:26,120 37676 INFO merqinternal odoo.models: Prepare computation of res.partner.commercial_company_name 
+2023-04-07 16:34:26,120 37676 INFO merqinternal odoo.models: Prepare computation of res.partner.partner_share 
+2023-04-07 16:34:26,193 37676 INFO merqinternal odoo.models: Prepare computation of res.currency.decimal_places 
+2023-04-07 16:34:26,238 37676 INFO merqinternal odoo.models: Prepare computation of res.company.logo_web 
+2023-04-07 16:34:26,294 37676 INFO merqinternal odoo.models: Prepare computation of res.users.signature 
+2023-04-07 16:34:26,294 37676 INFO merqinternal odoo.models: Prepare computation of res.users.share 
+2023-04-07 16:34:28,686 37676 INFO merqinternal odoo.modules.loading: loading base/data/res_bank.xml 
+2023-04-07 16:34:28,697 37676 INFO merqinternal odoo.modules.loading: loading base/data/res.lang.csv 
+2023-04-07 16:34:28,783 37676 INFO merqinternal odoo.modules.loading: loading base/data/res_lang_data.xml 
+2023-04-07 16:34:28,829 37676 INFO merqinternal odoo.modules.loading: loading base/data/res_partner_data.xml 
+2023-04-07 16:34:28,931 37676 INFO merqinternal odoo.modules.loading: loading base/data/res_currency_data.xml 
+2023-04-07 16:34:29,457 37676 INFO merqinternal odoo.modules.loading: loading base/data/res_company_data.xml 
+2023-04-07 16:34:29,479 37676 INFO merqinternal odoo.modules.loading: loading base/data/res_users_data.xml 
+2023-04-07 16:34:30,335 37676 INFO merqinternal odoo.modules.loading: loading base/data/report_paperformat_data.xml 
+2023-04-07 16:34:30,349 37676 INFO merqinternal odoo.modules.loading: loading base/data/res_country_data.xml 
+2023-04-07 16:34:31,000 37676 INFO merqinternal odoo.modules.loading: loading base/data/ir_demo_data.xml 
+2023-04-07 16:34:31,015 37676 INFO merqinternal odoo.modules.loading: loading base/data/ir_config_parameter_data.xml 
+2023-04-07 16:34:31,027 37676 INFO merqinternal odoo.modules.loading: loading base/security/base_groups.xml 
+2023-04-07 16:34:31,332 37676 INFO merqinternal odoo.modules.loading: loading base/security/base_security.xml 
+2023-04-07 16:34:31,487 37676 INFO merqinternal odoo.modules.loading: loading base/views/base_menus.xml 
+2023-04-07 16:34:31,615 37676 INFO merqinternal odoo.modules.loading: loading base/views/decimal_precision_views.xml 
+2023-04-07 16:34:31,638 37676 INFO merqinternal odoo.modules.loading: loading base/views/res_config_views.xml 
+2023-04-07 16:34:31,652 37676 INFO merqinternal odoo.modules.loading: loading base/data/res.country.state.csv 
+2023-04-07 16:34:32,513 37676 INFO merqinternal odoo.modules.loading: loading base/views/ir_actions_views.xml 
+2023-04-07 16:34:32,680 37676 INFO merqinternal odoo.modules.loading: loading base/views/ir_asset_views.xml 
+2023-04-07 16:34:32,710 37676 INFO merqinternal odoo.modules.loading: loading base/views/ir_config_parameter_views.xml 
+2023-04-07 16:34:32,737 37676 INFO merqinternal odoo.modules.loading: loading base/views/ir_cron_views.xml 
+2023-04-07 16:34:32,781 37676 INFO merqinternal odoo.modules.loading: loading base/views/ir_cron_trigger_views.xml 
+2023-04-07 16:34:32,808 37676 INFO merqinternal odoo.modules.loading: loading base/views/ir_filters_views.xml 
+2023-04-07 16:34:32,836 37676 INFO merqinternal odoo.modules.loading: loading base/views/ir_mail_server_views.xml 
+2023-04-07 16:34:32,871 37676 INFO merqinternal odoo.modules.loading: loading base/views/ir_model_views.xml 
+2023-04-07 16:34:33,098 37676 INFO merqinternal odoo.modules.loading: loading base/views/ir_attachment_views.xml 
+2023-04-07 16:34:33,133 37676 INFO merqinternal odoo.modules.loading: loading base/views/ir_rule_views.xml 
+2023-04-07 16:34:33,170 37676 INFO merqinternal odoo.modules.loading: loading base/views/ir_sequence_views.xml 
+2023-04-07 16:34:33,203 37676 INFO merqinternal odoo.modules.loading: loading base/views/ir_ui_menu_views.xml 
+2023-04-07 16:34:33,234 37676 INFO merqinternal odoo.modules.loading: loading base/views/ir_ui_view_views.xml 
+2023-04-07 16:34:33,307 37676 INFO merqinternal odoo.modules.loading: loading base/views/ir_default_views.xml 
+2023-04-07 16:34:33,339 37676 INFO merqinternal odoo.modules.loading: loading base/data/ir_cron_data.xml 
+2023-04-07 16:34:33,350 37676 INFO merqinternal odoo.modules.loading: loading base/report/ir_model_report.xml 
+2023-04-07 16:34:33,358 37676 INFO merqinternal odoo.modules.loading: loading base/report/ir_model_templates.xml 
+2023-04-07 16:34:33,371 37676 INFO merqinternal odoo.modules.loading: loading base/views/ir_logging_views.xml 
+2023-04-07 16:34:33,399 37676 INFO merqinternal odoo.modules.loading: loading base/views/ir_qweb_widget_templates.xml 
+2023-04-07 16:34:33,413 37676 INFO merqinternal odoo.modules.loading: loading base/views/ir_module_views.xml 
+2023-04-07 16:34:33,519 37676 INFO merqinternal odoo.modules.loading: loading base/data/ir_module_category_data.xml 
+2023-04-07 16:34:33,607 37676 INFO merqinternal odoo.modules.loading: loading base/data/ir_module_module.xml 
+2023-04-07 16:34:33,707 37676 INFO merqinternal odoo.modules.loading: loading base/report/ir_module_reports.xml 
+2023-04-07 16:34:33,713 37676 INFO merqinternal odoo.modules.loading: loading base/report/ir_module_report_templates.xml 
+2023-04-07 16:34:33,723 37676 INFO merqinternal odoo.modules.loading: loading base/wizard/base_module_update_views.xml 
+2023-04-07 16:34:33,742 37676 INFO merqinternal odoo.modules.loading: loading base/wizard/base_language_install_views.xml 
+2023-04-07 16:34:33,759 37676 INFO merqinternal odoo.modules.loading: loading base/wizard/base_import_language_views.xml 
+2023-04-07 16:34:33,775 37676 INFO merqinternal odoo.modules.loading: loading base/wizard/base_module_upgrade_views.xml 
+2023-04-07 16:34:33,802 37676 INFO merqinternal odoo.modules.loading: loading base/wizard/base_module_uninstall_views.xml 
+2023-04-07 16:34:33,812 37676 INFO merqinternal odoo.modules.loading: loading base/wizard/base_export_language_views.xml 
+2023-04-07 16:34:33,830 37676 INFO merqinternal odoo.modules.loading: loading base/wizard/base_partner_merge_views.xml 
+2023-04-07 16:34:33,852 37676 INFO merqinternal odoo.modules.loading: loading base/data/ir_actions_data.xml 
+2023-04-07 16:34:33,859 37676 INFO merqinternal odoo.modules.loading: loading base/data/ir_demo_failure_data.xml 
+2023-04-07 16:34:33,876 37676 INFO merqinternal odoo.modules.loading: loading base/views/ir_profile_views.xml 
+2023-04-07 16:34:33,914 37676 INFO merqinternal odoo.modules.loading: loading base/views/res_company_views.xml 
+2023-04-07 16:34:33,947 37676 INFO merqinternal odoo.modules.loading: loading base/views/res_lang_views.xml 
+2023-04-07 16:34:33,980 37676 INFO merqinternal odoo.modules.loading: loading base/views/res_partner_views.xml 
+2023-04-07 16:34:34,155 37676 INFO merqinternal odoo.modules.loading: loading base/views/res_bank_views.xml 
+2023-04-07 16:34:34,207 37676 INFO merqinternal odoo.modules.loading: loading base/views/res_country_views.xml 
+2023-04-07 16:34:34,268 37676 INFO merqinternal odoo.modules.loading: loading base/views/res_currency_views.xml 
+2023-04-07 16:34:34,325 37676 INFO merqinternal odoo.modules.loading: loading base/views/res_users_views.xml 
+2023-04-07 16:34:34,511 37676 INFO merqinternal odoo.modules.loading: loading base/views/ir_property_views.xml 
+2023-04-07 16:34:34,542 37676 INFO merqinternal odoo.modules.loading: loading base/views/res_config_settings_views.xml 
+2023-04-07 16:34:34,556 37676 INFO merqinternal odoo.modules.loading: loading base/views/report_paperformat_views.xml 
+2023-04-07 16:34:34,594 37676 INFO merqinternal odoo.modules.loading: loading base/views/onboarding_views.xml 
+2023-04-07 16:34:34,626 37676 INFO merqinternal odoo.modules.loading: loading base/security/ir.model.access.csv 
+2023-04-07 16:34:34,809 37676 INFO merqinternal odoo.modules.loading: Module base: loading demo 
+2023-04-07 16:34:34,809 37676 INFO merqinternal odoo.modules.loading: loading base/data/res_company_demo.xml 
+2023-04-07 16:34:34,820 37676 INFO merqinternal odoo.modules.loading: loading base/data/res_users_demo.xml 
+2023-04-07 16:34:35,844 37676 INFO merqinternal odoo.modules.loading: loading base/data/res_partner_bank_demo.xml 
+2023-04-07 16:34:35,852 37676 INFO merqinternal odoo.modules.loading: loading base/data/res_currency_rate_demo.xml 
+2023-04-07 16:34:36,221 37676 INFO merqinternal odoo.modules.loading: loading base/data/res_bank_demo.xml 
+2023-04-07 16:34:36,229 37676 INFO merqinternal odoo.modules.loading: loading base/data/res_partner_demo.xml 
+2023-04-07 16:34:36,626 37676 INFO merqinternal odoo.modules.loading: loading base/data/res_partner_image_demo.xml 
+2023-04-07 16:34:37,652 37676 INFO merqinternal odoo.modules.loading: Module base loaded in 12.41s, 8970 queries (+8970 other) 
+2023-04-07 16:34:37,653 37676 INFO merqinternal odoo.modules.loading: 1 modules loaded in 12.41s, 8970 queries (+8970 extra) 
+2023-04-07 16:34:37,694 37676 INFO merqinternal odoo.modules.loading: updating modules list 
+2023-04-07 16:34:37,698 37676 INFO merqinternal odoo.addons.base.models.ir_module: ALLOW access to module.update_list on [] to user __system__ #1 via n/a 
+2023-04-07 16:34:38,516 37676 INFO merqinternal odoo.modules.loading: loading 8 modules... 
+2023-04-07 16:34:38,517 37676 INFO merqinternal odoo.modules.loading: Loading module web (2/8) 
+2023-04-07 16:34:38,553 37676 INFO merqinternal odoo.modules.registry: module web: creating or updating database tables 
+2023-04-07 16:34:39,172 37676 INFO merqinternal odoo.modules.loading: loading web/security/ir.model.access.csv 
+2023-04-07 16:34:39,187 37676 INFO merqinternal odoo.modules.loading: loading web/views/webclient_templates.xml 
+2023-04-07 16:34:39,271 37676 INFO merqinternal odoo.modules.loading: loading web/views/report_templates.xml 
+2023-04-07 16:34:39,395 37676 INFO merqinternal odoo.modules.loading: loading web/views/base_document_layout_views.xml 
+2023-04-07 16:34:39,411 37676 INFO merqinternal odoo.modules.loading: loading web/views/speedscope_template.xml 
+2023-04-07 16:34:39,420 37676 INFO merqinternal odoo.modules.loading: loading web/views/lazy_assets.xml 
+2023-04-07 16:34:39,430 37676 INFO merqinternal odoo.modules.loading: loading web/views/neutralize_views.xml 
+2023-04-07 16:34:39,439 37676 INFO merqinternal odoo.modules.loading: loading web/data/ir_attachment.xml 
+2023-04-07 16:34:39,448 37676 INFO merqinternal odoo.modules.loading: loading web/data/report_layout.xml 
+2023-04-07 16:34:39,510 37676 INFO merqinternal odoo.modules.loading: Module web loaded in 0.99s, 882 queries (+882 other) 
+2023-04-07 16:34:39,510 37676 INFO merqinternal odoo.modules.loading: Loading module auth_totp (3/8) 
+2023-04-07 16:34:39,596 37676 INFO merqinternal odoo.modules.registry: module auth_totp: creating or updating database tables 
+2023-04-07 16:34:39,677 37676 INFO merqinternal odoo.modules.loading: loading auth_totp/security/security.xml 
+2023-04-07 16:34:39,713 37676 INFO merqinternal odoo.modules.loading: loading auth_totp/security/ir.model.access.csv 
+2023-04-07 16:34:39,727 37676 INFO merqinternal odoo.modules.loading: loading auth_totp/data/ir_action_data.xml 
+2023-04-07 16:34:39,737 37676 INFO merqinternal odoo.modules.loading: loading auth_totp/views/res_users_views.xml 
+2023-04-07 16:34:39,780 37676 INFO merqinternal odoo.modules.loading: loading auth_totp/views/templates.xml 
+2023-04-07 16:34:39,789 37676 INFO merqinternal odoo.modules.loading: loading auth_totp/wizard/auth_totp_wizard_views.xml 
+2023-04-07 16:34:39,819 37676 INFO merqinternal odoo.modules.loading: Module auth_totp loaded in 0.31s, 174 queries (+174 other) 
+2023-04-07 16:34:39,820 37676 INFO merqinternal odoo.modules.loading: Loading module base_import (4/8) 
+2023-04-07 16:34:39,903 37676 INFO merqinternal odoo.modules.registry: module base_import: creating or updating database tables 
+2023-04-07 16:34:40,902 37676 INFO merqinternal odoo.modules.loading: loading base_import/security/ir.model.access.csv 
+2023-04-07 16:34:40,956 37676 INFO merqinternal odoo.modules.loading: Module base_import loaded in 1.14s, 890 queries (+890 other) 
+2023-04-07 16:34:40,956 37676 INFO merqinternal odoo.modules.loading: Loading module bus (5/8) 
+2023-04-07 16:34:41,027 37676 INFO merqinternal odoo.modules.registry: module bus: creating or updating database tables 
+2023-04-07 16:34:41,148 37676 INFO merqinternal odoo.modules.loading: loading bus/security/ir.model.access.csv 
+2023-04-07 16:34:41,177 37676 INFO merqinternal odoo.modules.loading: Module bus loaded in 0.22s, 103 queries (+103 other) 
+2023-04-07 16:34:41,177 37676 INFO merqinternal odoo.modules.loading: Loading module web_kanban_gauge (6/8) 
+2023-04-07 16:34:41,243 37676 INFO merqinternal odoo.modules.loading: Module web_kanban_gauge loaded in 0.07s, 12 queries (+12 other) 
+2023-04-07 16:34:41,243 37676 INFO merqinternal odoo.modules.loading: Loading module web_tour (7/8) 
+2023-04-07 16:34:41,290 37676 INFO merqinternal odoo.modules.registry: module web_tour: creating or updating database tables 
+2023-04-07 16:34:41,346 37676 INFO merqinternal odoo.modules.loading: loading web_tour/security/ir.model.access.csv 
+2023-04-07 16:34:41,360 37676 INFO merqinternal odoo.modules.loading: loading web_tour/security/ir.rule.csv 
+2023-04-07 16:34:41,376 37676 INFO merqinternal odoo.modules.loading: loading web_tour/views/tour_views.xml 
+2023-04-07 16:34:41,421 37676 INFO merqinternal odoo.modules.loading: Module web_tour loaded in 0.18s, 101 queries (+101 other) 
+2023-04-07 16:34:41,422 37676 INFO merqinternal odoo.modules.loading: Loading module web_editor (8/8) 
+2023-04-07 16:34:41,569 37676 INFO merqinternal odoo.modules.registry: module web_editor: creating or updating database tables 
+2023-04-07 16:34:42,442 37676 INFO merqinternal odoo.modules.loading: loading web_editor/security/ir.model.access.csv 
+2023-04-07 16:34:42,458 37676 INFO merqinternal odoo.modules.loading: loading web_editor/data/editor_assets.xml 
+2023-04-07 16:34:42,466 37676 INFO merqinternal odoo.modules.loading: loading web_editor/views/editor.xml 
+2023-04-07 16:34:42,504 37676 INFO merqinternal odoo.modules.loading: loading web_editor/views/snippets.xml 
+2023-04-07 16:34:42,580 37676 INFO merqinternal odoo.modules.loading: Module web_editor loaded in 1.16s, 821 queries (+821 other) 
+2023-04-07 16:34:42,580 37676 INFO merqinternal odoo.modules.loading: 8 modules loaded in 4.06s, 2983 queries (+2983 extra) 
+2023-04-07 16:34:42,887 37676 INFO merqinternal odoo.modules.loading: Modules loaded. 
+2023-04-07 16:34:42,891 37676 INFO merqinternal odoo.modules.registry: Registry loaded in 19.254s 
+2023-04-07 16:34:43,055 37676 INFO merqinternal odoo.addons.base.models.ir_http: Generating routing map for key None 
+2023-04-07 16:34:43,190 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:34:43] "GET / HTTP/1.1" 303 - 6 0.003 14.090
+2023-04-07 16:34:43,204 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:34:43] "GET /web HTTP/1.1" 303 - 1 0.000 0.004
+2023-04-07 16:34:51,277 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:34:51] "GET /web/login HTTP/1.1" 200 - 67 0.046 8.019
+2023-04-07 16:34:51,792 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:34:51] "GET /web/assets/190-a5d375e/web.assets_frontend.min.css HTTP/1.1" 200 - 10 0.006 0.106
+2023-04-07 16:34:51,795 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:34:51] "GET /web/assets/191-4c3711b/web.assets_frontend_minimal.min.js HTTP/1.1" 200 - 8 0.010 0.106
+2023-04-07 16:34:51,948 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:34:51] "GET /web/binary/company_logo HTTP/1.1" 200 - 2 0.002 0.003
+2023-04-07 16:34:52,141 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:34:52] "GET /web/assets/192-74d6867/web.assets_frontend_lazy.min.js HTTP/1.1" 200 - 8 0.003 0.008
+2023-04-07 16:34:52,654 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:34:52] "GET /web/webclient/translations/1680885292329 HTTP/1.1" 200 - 6 0.001 0.012
+2023-04-07 16:34:52,912 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:34:52] "GET /web/webclient/translations/1680885292661 HTTP/1.1" 200 - 6 0.001 0.006
+2023-04-07 16:34:52,999 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:34:52] "GET /bus/websocket_worker_bundle?v=1.0.4 HTTP/1.1" 200 - 13 0.007 0.026
+2023-04-07 16:35:03,154 37676 INFO merqinternal odoo.addons.base.models.res_users: Login failed for db:merqinternal login:adminitrator@merqconsultancy.org from 127.0.0.1 
+2023-04-07 16:35:03,159 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:35:03] "POST /web/login HTTP/1.1" 200 - 6 0.002 0.010
+2023-04-07 16:35:03,225 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:35:03] "GET /web/binary/company_logo HTTP/1.1" 304 - 2 0.001 0.005
+2023-04-07 16:35:03,989 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:35:03] "GET /web/webclient/translations/1680885303660 HTTP/1.1" 200 - 6 0.001 0.006
+2023-04-07 16:35:04,237 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:35:04] "GET /web/webclient/translations/1680885303994 HTTP/1.1" 200 - 6 0.003 0.006
+2023-04-07 16:35:04,317 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:35:04] "GET /bus/websocket_worker_bundle?v=1.0.4 HTTP/1.1" 304 - 8 0.003 0.008
+2023-04-07 16:35:08,276 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:35:08] "GET /web/database/manager HTTP/1.1" 200 - 3 0.002 0.134
+2023-04-07 16:35:16,419 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:35:16] "GET /web?db=merqinternal HTTP/1.1" 303 - 1 0.001 0.004
+2023-04-07 16:35:16,433 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:35:16] "GET /web/login HTTP/1.1" 200 - 3 0.001 0.007
+2023-04-07 16:35:16,681 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:35:16] "GET /web/binary/company_logo HTTP/1.1" 304 - 2 0.002 0.006
+2023-04-07 16:35:18,057 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:35:18] "GET /web/webclient/translations/1680885317744 HTTP/1.1" 200 - 6 0.001 0.006
+2023-04-07 16:35:18,316 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:35:18] "GET /web/webclient/translations/1680885318066 HTTP/1.1" 200 - 6 0.004 0.007
+2023-04-07 16:35:29,347 37676 INFO merqinternal odoo.addons.base.models.res_users: Login failed for db:merqinternal login:adminitrator@merqconsultancy.org from 127.0.0.1 
+2023-04-07 16:35:29,350 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:35:29] "POST /web/login HTTP/1.1" 200 - 4 0.000 0.011
+2023-04-07 16:35:29,448 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:35:29] "GET /web/binary/company_logo HTTP/1.1" 304 - 2 0.001 0.004
+2023-04-07 16:35:29,904 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:35:29] "GET /web/webclient/translations/1680885329885 HTTP/1.1" 200 - 6 0.002 0.010
+2023-04-07 16:35:30,225 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:35:30] "GET /web/webclient/translations/1680885329908 HTTP/1.1" 200 - 6 0.002 0.003
+2023-04-07 16:35:42,977 37676 INFO merqinternal odoo.addons.base.models.ir_cron: Starting job `Base: Auto-vacuum internal data`. 
+2023-04-07 16:35:43,010 37676 INFO merqinternal odoo.addons.base.models.ir_attachment: filestore gc 60 checked, 0 removed 
+2023-04-07 16:35:43,060 37676 INFO merqinternal odoo.addons.base.models.res_users: GC'd 0 user log entries 
+2023-04-07 16:35:43,094 37676 INFO merqinternal odoo.addons.auth_totp.models.auth_totp: GC'd 0 totp devices entries 
+2023-04-07 16:35:43,110 37676 INFO merqinternal odoo.addons.base.models.ir_cron: Job `Base: Auto-vacuum internal data` done. 
+2023-04-07 16:35:44,009 37676 ERROR merqinternal odoo.addons.web.controllers.database: Database.backup 
+Traceback (most recent call last):
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\addons\web\controllers\database.py", line 128, in backup
+    odoo.service.db.check_super(master_pwd)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\service\db.py", line 53, in check_super
+    raise odoo.exceptions.AccessDenied()
+odoo.exceptions.AccessDenied: Access Denied
+2023-04-07 16:35:44,117 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:35:44] "POST /web/database/backup HTTP/1.1" 200 - 3 0.002 0.157
+2023-04-07 16:35:55,876 37676 ERROR None odoo.addons.web.controllers.database: Database deletion error. 
+Traceback (most recent call last):
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\addons\web\controllers\database.py", line 113, in drop
+    dispatch_rpc('db', 'drop', [master_pwd, name])
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\http.py", line 368, in dispatch_rpc
+    return dispatch(method, params)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\service\db.py", line 474, in dispatch
+    check_super(passwd)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\service\db.py", line 53, in check_super
+    raise odoo.exceptions.AccessDenied()
+odoo.exceptions.AccessDenied: Access Denied
+2023-04-07 16:35:55,983 37676 INFO None werkzeug: 127.0.0.1 - - [07/Apr/2023 16:35:55] "POST /web/database/drop HTTP/1.1" 200 - 3 0.002 0.158
+2023-04-07 16:36:08,320 37676 INFO None odoo.sql_db: ConnectionPool(used=2/count=2/max=64): Closed 3 connections to 'user=odoodb password=xxx dbname=merqinternal host=localhost port=5432 application_name=odoo-37676 sslmode=prefer' 
+2023-04-07 16:36:08,628 37676 INFO None odoo.service.db: DROP DB: merqinternal 
+2023-04-07 16:36:08,657 37676 INFO None werkzeug: 127.0.0.1 - - [07/Apr/2023 16:36:08] "POST /web/database/drop HTTP/1.1" 303 - 3 0.274 0.120
+2023-04-07 16:36:08,702 37676 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:36:08,789 37676 INFO merqinternal odoo.sql_db: Connection to the database failed 
+2023-04-07 16:36:08,790 37676 ERROR merqinternal odoo.http: Exception during request handling. 
+Traceback (most recent call last):
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\modules\registry.py", line 64, in __new__
+    return cls.registries[db_name]
+  File "<decorator-gen-6>", line 2, in __getitem__
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\tools\lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: 'merqinternal'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\http.py", line 1563, in _serve_db
+    self.registry = Registry(self.db).check_signaling()
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\modules\registry.py", line 66, in __new__
+    return cls.new(db_name)
+  File "<decorator-gen-14>", line 2, in new
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\modules\registry.py", line 78, in new
+    registry.init(db_name)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\modules\registry.py", line 159, in init
+    with closing(self.cursor()) as cr:
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\modules\registry.py", line 847, in cursor
+    return self._db.cursor()
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\sql_db.py", line 723, in cursor
+    return Cursor(self.__pool, self.__dbname, self.__dsn)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\sql_db.py", line 259, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "<decorator-gen-2>", line 2, in borrow
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\sql_db.py", line 650, in borrow
+    **connection_info)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\python\Lib\site-packages\psycopg2\__init__.py", line 127, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: FATAL:  database "merqinternal" does not exist
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\http.py", line 1988, in __call__
+    response = request._serve_db()
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\http.py", line 1578, in _serve_db
+    return self._serve_nodb()
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\http.py", line 1553, in _serve_nodb
+    response = self.dispatcher.dispatch(rule.endpoint, args)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\http.py", line 1726, in dispatch
+    return endpoint(**self.request.params)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\http.py", line 699, in route_wrapper
+    result = endpoint(self, *args, **params_ok)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\addons\web\controllers\database.py", line 69, in manager
+    return self._render_template()
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\addons\web\controllers\database.py", line 40, in _render_template
+    d['incompatible_databases'] = odoo.service.db.list_db_incompatible(d['databases'])
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\service\db.py", line 420, in list_db_incompatible
+    with closing(db_connect(database_name).cursor()) as cr:
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\sql_db.py", line 723, in cursor
+    return Cursor(self.__pool, self.__dbname, self.__dsn)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\sql_db.py", line 259, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "<decorator-gen-2>", line 2, in borrow
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\sql_db.py", line 650, in borrow
+    **connection_info)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\python\Lib\site-packages\psycopg2\__init__.py", line 127, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: FATAL:  database "merqinternal" does not exist
+
+2023-04-07 16:36:08,794 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:36:08] "GET /web/database/manager HTTP/1.1" 500 - 0 0.000 0.128
+2023-04-07 16:36:13,427 37676 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:36:13,431 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:36:13] "GET / HTTP/1.1" 303 - 0 0.000 0.044
+2023-04-07 16:36:13,734 37676 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:36:13,735 37676 ERROR merqinternal odoo.http: Exception during request handling. 
+Traceback (most recent call last):
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\modules\registry.py", line 64, in __new__
+    return cls.registries[db_name]
+  File "<decorator-gen-6>", line 2, in __getitem__
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\tools\lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: 'merqinternal'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\http.py", line 1988, in __call__
+    response = request._serve_db()
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\http.py", line 1563, in _serve_db
+    self.registry = Registry(self.db).check_signaling()
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\modules\registry.py", line 66, in __new__
+    return cls.new(db_name)
+  File "<decorator-gen-14>", line 2, in new
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\modules\registry.py", line 78, in new
+    registry.init(db_name)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\modules\registry.py", line 159, in init
+    with closing(self.cursor()) as cr:
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\modules\registry.py", line 847, in cursor
+    return self._db.cursor()
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\sql_db.py", line 723, in cursor
+    return Cursor(self.__pool, self.__dbname, self.__dsn)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\sql_db.py", line 259, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "<decorator-gen-2>", line 2, in borrow
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\sql_db.py", line 650, in borrow
+    **connection_info)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\python\Lib\site-packages\psycopg2\__init__.py", line 127, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: FATAL:  database "merqinternal" does not exist
+
+2023-04-07 16:36:13,736 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:36:13] "GET /web HTTP/1.1" 500 - 0 0.000 0.037
+2023-04-07 16:36:17,059 37676 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:36:17,062 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:36:17] "GET / HTTP/1.1" 303 - 0 0.000 0.043
+2023-04-07 16:36:17,106 37676 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-07 16:36:17,107 37676 ERROR merqinternal odoo.http: Exception during request handling. 
+Traceback (most recent call last):
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\modules\registry.py", line 64, in __new__
+    return cls.registries[db_name]
+  File "<decorator-gen-6>", line 2, in __getitem__
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\tools\lru.py", line 34, in __getitem__
+    a = self.d[obj]
+KeyError: 'merqinternal'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\http.py", line 1988, in __call__
+    response = request._serve_db()
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\http.py", line 1563, in _serve_db
+    self.registry = Registry(self.db).check_signaling()
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\modules\registry.py", line 66, in __new__
+    return cls.new(db_name)
+  File "<decorator-gen-14>", line 2, in new
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\modules\registry.py", line 78, in new
+    registry.init(db_name)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\modules\registry.py", line 159, in init
+    with closing(self.cursor()) as cr:
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\modules\registry.py", line 847, in cursor
+    return self._db.cursor()
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\sql_db.py", line 723, in cursor
+    return Cursor(self.__pool, self.__dbname, self.__dsn)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\sql_db.py", line 259, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "<decorator-gen-2>", line 2, in borrow
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\tools\func.py", line 87, in locked
+    return func(inst, *args, **kwargs)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo\sql_db.py", line 650, in borrow
+    **connection_info)
+  File "D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\python\Lib\site-packages\psycopg2\__init__.py", line 127, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: FATAL:  database "merqinternal" does not exist
+
+2023-04-07 16:36:17,108 37676 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:36:17] "GET /web HTTP/1.1" 500 - 0 0.000 0.038
+2023-04-07 16:36:47,860 37676 INFO merqinternal odoo.service.server: Initiating shutdown 
+2023-04-07 16:36:47,862 37676 INFO merqinternal odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2023-04-07 16:36:47,975 37676 INFO merqinternal odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 2 connections  
+2023-04-07 16:37:02,588 15288 INFO ? odoo: Odoo version 16.0-20230404 
+2023-04-07 16:37:02,588 15288 INFO ? odoo: Using configuration file at D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\server\odoo.conf 
+2023-04-07 16:37:02,588 15288 INFO ? odoo: addons paths: ['D:\\DATA_BACKUP\\DEVELOPMENTS\\zinst\\MERQ\\MERQInternalManagment\\server\\odoo\\addons', 'd:\\data_backup\\developments\\zinst\\merq\\merqinternalmanagment\\sessions\\addons\\16.0', 'd:\\data_backup\\developments\\zinst\\merq\\merqinternalmanagment\\server\\odoo\\addons'] 
+2023-04-07 16:37:02,588 15288 INFO ? odoo: database: odoodb@localhost:5432 
+2023-04-07 16:37:02,777 15288 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at D:\DATA_BACKUP\DEVELOPMENTS\zinst\MERQ\MERQInternalManagment\thirdparty\wkhtmltopdf.exe 
+2023-04-07 16:37:03,032 15288 INFO ? odoo.service.server: HTTP service (werkzeug) running on MIKEINTOSH-MERQ:8069 
+2023-04-07 16:37:06,052 15288 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:37:06] "GET / HTTP/1.1" 303 - 1 0.005 0.054
+2023-04-07 16:37:06,130 15288 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:37:06] "GET /web HTTP/1.1" 303 - 2 0.005 0.066
+2023-04-07 16:37:06,927 15288 INFO ? odoo.sql_db: ConnectionPool(used=2/count=3/max=64): Closed 1 connections to 'user=odoodb password=xxx dbname=odoodb host=localhost port=5432 application_name=odoo-15288 sslmode=prefer' 
+2023-04-07 16:37:06,992 15288 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:37:06] "GET /web/database/selector HTTP/1.1" 200 - 6 0.017 0.721
+2023-04-07 16:37:48,452 15288 INFO None werkzeug: 127.0.0.1 - - [07/Apr/2023 16:37:48] "POST /web/database/change_password HTTP/1.1" 303 - 1 0.002 0.194
+2023-04-07 16:37:48,601 15288 INFO ? odoo.sql_db: ConnectionPool(used=2/count=3/max=64): Closed 1 connections to 'user=odoodb password=xxx dbname=odoodb host=localhost port=5432 application_name=odoo-15288 sslmode=prefer' 
+2023-04-07 16:37:48,668 15288 INFO ? werkzeug: 127.0.0.1 - - [07/Apr/2023 16:37:48] "GET /web/database/manager HTTP/1.1" 200 - 6 0.006 0.202
+2023-04-07 16:38:27,548 15288 INFO None odoo.service.db: Create database `merqinternal`. 
+2023-04-07 16:38:29,053 15288 INFO merqinternal odoo.modules.loading: loading 1 modules... 
+2023-04-07 16:38:29,053 15288 INFO merqinternal odoo.modules.loading: Loading module base (1/1) 
+2023-04-07 16:38:29,098 15288 INFO merqinternal odoo.modules.registry: module base: creating or updating database tables 
+2023-04-07 16:38:29,669 15288 INFO merqinternal odoo.models: Prepare computation of ir.module.module.menus_by_module 
+2023-04-07 16:38:29,670 15288 INFO merqinternal odoo.models: Prepare computation of ir.module.module.reports_by_module 
+2023-04-07 16:38:29,670 15288 INFO merqinternal odoo.models: Prepare computation of ir.module.module.views_by_module 
+2023-04-07 16:38:29,890 15288 INFO merqinternal odoo.models: Prepare computation of res.partner.user_id 
+2023-04-07 16:38:29,891 15288 INFO merqinternal odoo.models: Prepare computation of res.partner.commercial_partner_id 
+2023-04-07 16:38:29,892 15288 INFO merqinternal odoo.models: Prepare computation of res.partner.display_name 
+2023-04-07 16:38:29,892 15288 INFO merqinternal odoo.models: Prepare computation of res.partner.company_registry 
+2023-04-07 16:38:29,892 15288 INFO merqinternal odoo.models: Prepare computation of res.partner.commercial_company_name 
+2023-04-07 16:38:29,892 15288 INFO merqinternal odoo.models: Prepare computation of res.partner.partner_share 
+2023-04-07 16:38:29,967 15288 INFO merqinternal odoo.models: Prepare computation of res.currency.decimal_places 
+2023-04-07 16:38:30,012 15288 INFO merqinternal odoo.models: Prepare computation of res.company.logo_web 
+2023-04-07 16:38:30,070 15288 INFO merqinternal odoo.models: Prepare computation of res.users.signature 
+2023-04-07 16:38:30,071 15288 INFO merqinternal odoo.models: Prepare computation of res.users.share 
+2023-04-07 16:38:32,276 15288 INFO merqinternal odoo.modules.loading: loading base/data/res_bank.xml 
+2023-04-07 16:38:32,284 15288 INFO merqinternal odoo.modules.loading: loading base/data/res.lang.csv 
+2023-04-07 16:38:32,376 15288 INFO merqinternal odoo.modules.loading: loading base/data/res_lang_data.xml 
+2023-04-07 16:38:32,417 15288 INFO merqinternal odoo.modules.loading: loading base/data/res_partner_data.xml 
+2023-04-07 16:38:32,516 15288 INFO merqinternal odoo.modules.loading: loading base/data/res_currency_data.xml 
+2023-04-07 16:38:33,098 15288 INFO merqinternal odoo.modules.loading: loading base/data/res_company_data.xml 
+2023-04-07 16:38:33,116 15288 INFO merqinternal odoo.modules.loading: loading base/data/res_users_data.xml 
+2023-04-07 16:38:33,926 15288 INFO merqinternal odoo.modules.loading: loading base/data/report_paperformat_data.xml 
+2023-04-07 16:38:33,940 15288 INFO merqinternal odoo.modules.loading: loading base/data/res_country_data.xml 
+2023-04-07 16:38:34,671 15288 INFO merqinternal odoo.modules.loading: loading base/data/ir_demo_data.xml 
+2023-04-07 16:38:34,686 15288 INFO merqinternal odoo.modules.loading: loading base/data/ir_config_parameter_data.xml 
+2023-04-07 16:38:34,698 15288 INFO merqinternal odoo.modules.loading: loading base/security/base_groups.xml 
+2023-04-07 16:38:35,012 15288 INFO merqinternal odoo.modules.loading: loading base/security/base_security.xml 
+2023-04-07 16:38:35,162 15288 INFO merqinternal odoo.modules.loading: loading base/views/base_menus.xml 
+2023-04-07 16:38:35,283 15288 INFO merqinternal odoo.modules.loading: loading base/views/decimal_precision_views.xml 
+2023-04-07 16:38:35,308 15288 INFO merqinternal odoo.modules.loading: loading base/views/res_config_views.xml 
+2023-04-07 16:38:35,321 15288 INFO merqinternal odoo.modules.loading: loading base/data/res.country.state.csv 
+2023-04-07 16:38:36,169 15288 INFO merqinternal odoo.modules.loading: loading base/views/ir_actions_views.xml 
+2023-04-07 16:38:36,337 15288 INFO merqinternal odoo.modules.loading: loading base/views/ir_asset_views.xml 
+2023-04-07 16:38:36,368 15288 INFO merqinternal odoo.modules.loading: loading base/views/ir_config_parameter_views.xml 
+2023-04-07 16:38:36,395 15288 INFO merqinternal odoo.modules.loading: loading base/views/ir_cron_views.xml 
+2023-04-07 16:38:36,436 15288 INFO merqinternal odoo.modules.loading: loading base/views/ir_cron_trigger_views.xml 
+2023-04-07 16:38:36,464 15288 INFO merqinternal odoo.modules.loading: loading base/views/ir_filters_views.xml 
+2023-04-07 16:38:36,492 15288 INFO merqinternal odoo.modules.loading: loading base/views/ir_mail_server_views.xml 
+2023-04-07 16:38:36,523 15288 INFO merqinternal odoo.modules.loading: loading base/views/ir_model_views.xml 
+2023-04-07 16:38:36,754 15288 INFO merqinternal odoo.modules.loading: loading base/views/ir_attachment_views.xml 
+2023-04-07 16:38:36,788 15288 INFO merqinternal odoo.modules.loading: loading base/views/ir_rule_views.xml 
+2023-04-07 16:38:36,824 15288 INFO merqinternal odoo.modules.loading: loading base/views/ir_sequence_views.xml 
+2023-04-07 16:38:36,853 15288 INFO merqinternal odoo.modules.loading: loading base/views/ir_ui_menu_views.xml 
+2023-04-07 16:38:36,883 15288 INFO merqinternal odoo.modules.loading: loading base/views/ir_ui_view_views.xml 
+2023-04-07 16:38:36,953 15288 INFO merqinternal odoo.modules.loading: loading base/views/ir_default_views.xml 
+2023-04-07 16:38:36,981 15288 INFO merqinternal odoo.modules.loading: loading base/data/ir_cron_data.xml 
+2023-04-07 16:38:36,992 15288 INFO merqinternal odoo.modules.loading: loading base/report/ir_model_report.xml 
+2023-04-07 16:38:36,999 15288 INFO merqinternal odoo.modules.loading: loading base/report/ir_model_templates.xml 
+2023-04-07 16:38:37,011 15288 INFO merqinternal odoo.modules.loading: loading base/views/ir_logging_views.xml 
+2023-04-07 16:38:37,038 15288 INFO merqinternal odoo.modules.loading: loading base/views/ir_qweb_widget_templates.xml 
+2023-04-07 16:38:37,054 15288 INFO merqinternal odoo.modules.loading: loading base/views/ir_module_views.xml 
+2023-04-07 16:38:37,156 15288 INFO merqinternal odoo.modules.loading: loading base/data/ir_module_category_data.xml 
+2023-04-07 16:38:37,248 15288 INFO merqinternal odoo.modules.loading: loading base/data/ir_module_module.xml 
+2023-04-07 16:38:37,356 15288 INFO merqinternal odoo.modules.loading: loading base/report/ir_module_reports.xml 
+2023-04-07 16:38:37,363 15288 INFO merqinternal odoo.modules.loading: loading base/report/ir_module_report_templates.xml 
+2023-04-07 16:38:37,372 15288 INFO merqinternal odoo.modules.loading: loading base/wizard/base_module_update_views.xml 
+2023-04-07 16:38:37,389 15288 INFO merqinternal odoo.modules.loading: loading base/wizard/base_language_install_views.xml 
+2023-04-07 16:38:37,409 15288 INFO merqinternal odoo.modules.loading: loading base/wizard/base_import_language_views.xml 
+2023-04-07 16:38:37,424 15288 INFO merqinternal odoo.modules.loading: loading base/wizard/base_module_upgrade_views.xml 
+2023-04-07 16:38:37,450 15288 INFO merqinternal odoo.modules.loading: loading base/wizard/base_module_uninstall_views.xml 
+2023-04-07 16:38:37,463 15288 INFO merqinternal odoo.modules.loading: loading base/wizard/base_export_language_views.xml 
+2023-04-07 16:38:37,480 15288 INFO merqinternal odoo.modules.loading: loading base/wizard/base_partner_merge_views.xml 
+2023-04-07 16:38:37,500 15288 INFO merqinternal odoo.modules.loading: loading base/data/ir_actions_data.xml 
+2023-04-07 16:38:37,506 15288 INFO merqinternal odoo.modules.loading: loading base/data/ir_demo_failure_data.xml 
+2023-04-07 16:38:37,522 15288 INFO merqinternal odoo.modules.loading: loading base/views/ir_profile_views.xml 
+2023-04-07 16:38:37,555 15288 INFO merqinternal odoo.modules.loading: loading base/views/res_company_views.xml 
+2023-04-07 16:38:37,590 15288 INFO merqinternal odoo.modules.loading: loading base/views/res_lang_views.xml 
+2023-04-07 16:38:37,625 15288 INFO merqinternal odoo.modules.loading: loading base/views/res_partner_views.xml 
+2023-04-07 16:38:37,802 15288 INFO merqinternal odoo.modules.loading: loading base/views/res_bank_views.xml 
+2023-04-07 16:38:37,852 15288 INFO merqinternal odoo.modules.loading: loading base/views/res_country_views.xml 
+2023-04-07 16:38:37,910 15288 INFO merqinternal odoo.modules.loading: loading base/views/res_currency_views.xml 
+2023-04-07 16:38:37,962 15288 INFO merqinternal odoo.modules.loading: loading base/views/res_users_views.xml 
+2023-04-07 16:38:38,142 15288 INFO merqinternal odoo.modules.loading: loading base/views/ir_property_views.xml 
+2023-04-07 16:38:38,173 15288 INFO merqinternal odoo.modules.loading: loading base/views/res_config_settings_views.xml 
+2023-04-07 16:38:38,185 15288 INFO merqinternal odoo.modules.loading: loading base/views/report_paperformat_views.xml 
+2023-04-07 16:38:38,223 15288 INFO merqinternal odoo.modules.loading: loading base/views/onboarding_views.xml 
+2023-04-07 16:38:38,259 15288 INFO merqinternal odoo.modules.loading: loading base/security/ir.model.access.csv 
+2023-04-07 16:38:38,540 15288 INFO merqinternal odoo.modules.loading: Module base loaded in 9.49s, 7824 queries (+7824 other) 
+2023-04-07 16:38:38,542 15288 INFO merqinternal odoo.modules.loading: 1 modules loaded in 9.49s, 7824 queries (+7824 extra) 
+2023-04-07 16:38:38,589 15288 INFO merqinternal odoo.modules.loading: updating modules list 
+2023-04-07 16:38:38,589 15288 INFO merqinternal odoo.addons.base.models.ir_module: ALLOW access to module.update_list on [] to user __system__ #1 via n/a 
+2023-04-07 16:38:39,384 15288 INFO merqinternal odoo.modules.loading: loading 8 modules... 
+2023-04-07 16:38:39,384 15288 INFO merqinternal odoo.modules.loading: Loading module web (2/8) 
+2023-04-07 16:38:39,420 15288 INFO merqinternal odoo.modules.registry: module web: creating or updating database tables 
+2023-04-07 16:38:40,042 15288 INFO merqinternal odoo.modules.loading: loading web/security/ir.model.access.csv 
+2023-04-07 16:38:40,058 15288 INFO merqinternal odoo.modules.loading: loading web/views/webclient_templates.xml 
+2023-04-07 16:38:40,137 15288 INFO merqinternal odoo.modules.loading: loading web/views/report_templates.xml 
+2023-04-07 16:38:40,246 15288 INFO merqinternal odoo.modules.loading: loading web/views/base_document_layout_views.xml 
+2023-04-07 16:38:40,265 15288 INFO merqinternal odoo.modules.loading: loading web/views/speedscope_template.xml 
+2023-04-07 16:38:40,274 15288 INFO merqinternal odoo.modules.loading: loading web/views/lazy_assets.xml 
+2023-04-07 16:38:40,282 15288 INFO merqinternal odoo.modules.loading: loading web/views/neutralize_views.xml 
+2023-04-07 16:38:40,291 15288 INFO merqinternal odoo.modules.loading: loading web/data/ir_attachment.xml 
+2023-04-07 16:38:40,299 15288 INFO merqinternal odoo.modules.loading: loading web/data/report_layout.xml 
+2023-04-07 16:38:40,362 15288 INFO merqinternal odoo.modules.loading: Module web loaded in 0.98s, 882 queries (+882 other) 
+2023-04-07 16:38:40,362 15288 INFO merqinternal odoo.modules.loading: Loading module auth_totp (3/8) 
+2023-04-07 16:38:40,419 15288 INFO merqinternal odoo.modules.registry: module auth_totp: creating or updating database tables 
+2023-04-07 16:38:40,504 15288 INFO merqinternal odoo.modules.loading: loading auth_totp/security/security.xml 
+2023-04-07 16:38:40,535 15288 INFO merqinternal odoo.modules.loading: loading auth_totp/security/ir.model.access.csv 
+2023-04-07 16:38:40,549 15288 INFO merqinternal odoo.modules.loading: loading auth_totp/data/ir_action_data.xml 
+2023-04-07 16:38:40,559 15288 INFO merqinternal odoo.modules.loading: loading auth_totp/views/res_users_views.xml 
+2023-04-07 16:38:40,600 15288 INFO merqinternal odoo.modules.loading: loading auth_totp/views/templates.xml 
+2023-04-07 16:38:40,609 15288 INFO merqinternal odoo.modules.loading: loading auth_totp/wizard/auth_totp_wizard_views.xml 
+2023-04-07 16:38:40,636 15288 INFO merqinternal odoo.modules.loading: Module auth_totp loaded in 0.27s, 174 queries (+174 other) 
+2023-04-07 16:38:40,638 15288 INFO merqinternal odoo.modules.loading: Loading module base_import (4/8) 
+2023-04-07 16:38:40,691 15288 INFO merqinternal odoo.modules.registry: module base_import: creating or updating database tables 
+2023-04-07 16:38:41,680 15288 INFO merqinternal odoo.modules.loading: loading base_import/security/ir.model.access.csv 
+2023-04-07 16:38:41,733 15288 INFO merqinternal odoo.modules.loading: Module base_import loaded in 1.09s, 890 queries (+890 other) 
+2023-04-07 16:38:41,733 15288 INFO merqinternal odoo.modules.loading: Loading module bus (5/8) 
+2023-04-07 16:38:41,782 15288 INFO merqinternal odoo.modules.registry: module bus: creating or updating database tables 
+2023-04-07 16:38:41,893 15288 INFO merqinternal odoo.modules.loading: loading bus/security/ir.model.access.csv 
+2023-04-07 16:38:41,922 15288 INFO merqinternal odoo.modules.loading: Module bus loaded in 0.19s, 103 queries (+103 other) 
+2023-04-07 16:38:41,922 15288 INFO merqinternal odoo.modules.loading: Loading module web_kanban_gauge (6/8) 
+2023-04-07 16:38:41,978 15288 INFO merqinternal odoo.modules.loading: Module web_kanban_gauge loaded in 0.06s, 12 queries (+12 other) 
+2023-04-07 16:38:41,978 15288 INFO merqinternal odoo.modules.loading: Loading module web_tour (7/8) 
+2023-04-07 16:38:42,022 15288 INFO merqinternal odoo.modules.registry: module web_tour: creating or updating database tables 
+2023-04-07 16:38:42,075 15288 INFO merqinternal odoo.modules.loading: loading web_tour/security/ir.model.access.csv 
+2023-04-07 16:38:42,089 15288 INFO merqinternal odoo.modules.loading: loading web_tour/security/ir.rule.csv 
+2023-04-07 16:38:42,101 15288 INFO merqinternal odoo.modules.loading: loading web_tour/views/tour_views.xml 
+2023-04-07 16:38:42,147 15288 INFO merqinternal odoo.modules.loading: Module web_tour loaded in 0.17s, 101 queries (+101 other) 
+2023-04-07 16:38:42,147 15288 INFO merqinternal odoo.modules.loading: Loading module web_editor (8/8) 
+2023-04-07 16:38:42,234 15288 INFO merqinternal odoo.modules.registry: module web_editor: creating or updating database tables 
+2023-04-07 16:38:43,031 15288 INFO merqinternal odoo.modules.loading: loading web_editor/security/ir.model.access.csv 
+2023-04-07 16:38:43,046 15288 INFO merqinternal odoo.modules.loading: loading web_editor/data/editor_assets.xml 
+2023-04-07 16:38:43,054 15288 INFO merqinternal odoo.modules.loading: loading web_editor/views/editor.xml 
+2023-04-07 16:38:43,093 15288 INFO merqinternal odoo.modules.loading: loading web_editor/views/snippets.xml 
+2023-04-07 16:38:43,165 15288 INFO merqinternal odoo.modules.loading: Module web_editor loaded in 1.02s, 821 queries (+821 other) 
+2023-04-07 16:38:43,165 15288 INFO merqinternal odoo.modules.loading: 8 modules loaded in 3.78s, 2983 queries (+2983 extra) 
+2023-04-07 16:38:43,448 15288 INFO merqinternal odoo.modules.loading: Modules loaded. 
+2023-04-07 16:38:43,453 15288 INFO merqinternal odoo.modules.registry: Registry loaded in 14.411s 
+2023-04-07 16:38:44,405 15288 INFO merqinternal odoo.addons.base.models.res_users: Login successful for db:merqinternal login:adminitrator@merqconsultancy.org from 127.0.0.1 
+2023-04-07 16:38:44,418 15288 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:38:44] "POST /web/database/create HTTP/1.1" 303 - 15698 9.250 7.710
+2023-04-07 16:38:44,741 15288 INFO merqinternal odoo.addons.base.models.ir_http: Generating routing map for key None 
+2023-04-07 16:38:44,853 15288 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:38:44] "GET /web HTTP/1.1" 303 - 6 0.002 0.114
+2023-04-07 16:38:52,289 15288 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:38:52] "GET /web/login HTTP/1.1" 200 - 68 0.048 7.248
+2023-04-07 16:38:52,396 15288 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:38:52] "GET /web/assets/15-a5d375e/web.assets_frontend.min.css HTTP/1.1" 200 - 10 0.006 0.011
+2023-04-07 16:38:52,698 15288 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:38:52] "GET /web/assets/16-4c3711b/web.assets_frontend_minimal.min.js HTTP/1.1" 200 - 8 0.002 0.008
+2023-04-07 16:38:52,764 15288 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:38:52] "GET /web/binary/company_logo HTTP/1.1" 200 - 2 0.003 0.042
+2023-04-07 16:38:53,266 15288 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:38:53] "GET /web/assets/17-74d6867/web.assets_frontend_lazy.min.js HTTP/1.1" 200 - 8 0.008 0.011
+2023-04-07 16:38:53,524 15288 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:38:53] "GET /web/webclient/translations/1680885533436 HTTP/1.1" 200 - 6 0.002 0.011
+2023-04-07 16:38:53,761 15288 INFO merqinternal werkzeug: 127.0.0.1 - - [07/Apr/2023 16:38:53] "GET /web/webclient/translations/1680885533530 HTTP/1.1" 200 - 6 0.002 0.008
+2023-04-07 16:39:03,119 15288 INFO merqinternal odoo.addons.base.models.ir_cron: Starting job `Base: Auto-vacuum internal data`. 
+2023-04-07 16:39:03,148 15288 INFO merqinternal odoo.addons.base.models.ir_attachment: filestore gc 14 checked, 0 removed 
+2023-04-07 16:39:03,239 15288 INFO merqinternal odoo.addons.base.models.res_users: GC'd 0 user log entries 
+2023-04-07 16:39:03,273 15288 INFO merqinternal odoo.addons.auth_totp.models.auth_totp: GC'd 0 totp devices entries 
+2023-04-07 16:39:03,297 15288 INFO merqinternal odoo.addons.base.models.ir_cron: Job `Base: Auto-vacuum internal data` done. 
+2023-04-07 16:41:39,497 15288 INFO ? odoo.service.server: Initiating shutdown 
+2023-04-07 16:41:39,497 15288 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2023-04-07 16:41:39,511 15288 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 6 connections  
